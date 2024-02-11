@@ -1,0 +1,371 @@
+message,spam/ham,hindi,marathi
+good night,spam,शुभ रात्रि,शुभ रात्री
+good morning,spam,शुभ प्रभात,शुभ प्रभात
+happy diwali,spam,दीपावली की हार्दिक शुभकामनाएं,दिवाळीच्या शुभेच्छा
+happy christmas,spam,क्रिसमस की शुभकामना,आनंदी ख्रिसमस
+happy new year,spam,नए साल की शुभकामनाएँ,नवीन वर्षाच्या शुभेच्छा
+notice,ham,सूचना,सूचना
+fraud,spam,धोखा,फसवणूक
+alert,spam,चेतावनी,सतर्क
+important notice,ham,महत्वपूर्ण सूचना,महत्वाची सूचना
+sharechat,spam,शरिचत,शाल
+the 27 most popular ai tools 2023,ham,27 सबसे लोकप्रिय एआई उपकरण 2023,27 सर्वात लोकप्रिय एआय टूल्स 2023
+time table,ham,समय सारणी,वेळापत्रक
+kit,ham,किट,किट
+mharastra student invoation challenge,ham,मारास्ट्रा छात्र चालान चुनौती,मारास्ट्रा स्टुडंट इन्व्होएशन चॅलेंज
+hackathon,ham,आयोजित हैकथॉन,हॅकॅथॉन
+kaun banega corepati,spam,कौन बनेगा केपति,कोण वाष्प होईल
+happy holi,spam,होली की शुभकामनाएं,होळीच्या शुभेच्छा
+happy rakshabandhan,spam,हैप्पी रक्षाबंधन,आनंदी रक्षाबंधन
+happy dussehera,spam,हैप्पी दशहरा,आनंदी दीसेहरा
+happy independence day,spam,स्वतंत्रता दिवस की शुभकामनाएं,स्वातंत्र्य दिनाच्या शुभेच्छा
+happy republic day,spam,हैप्पी रिपब्लिक डे,रिपब्लिक डे शुभेच्छा
+happy friendship day,spam,आपके लिए मित्रता दिवस मंगलमय हो,मैत्री दिवसाच्या शुभेच्छा
+happy Sunday,spam,रविवार मुबारक हो,शुभ रविवार
+rummy circle,spam,रम्मी सर्कल,रम्मी सर्कल
+junglee rummy,spam,कंजूस,जंगली रमी
+happy makarsankranti,spam,हैप्पी मकरसांकरंती,हॅपी मकरासंक्रांती
+happy valentine day,spam,हैप्पी वेलेंटाइन दिन,व्हॅलेंटाईन डे हार्दिक शुभेच्छा
+happy rose day,spam,हैप्पी रोज डे,गुलाब दिवसाच्या शुभेच्छा
+happy birthday,spam,जन्मदिन की शुभकामनाएँ,वाढदिवसाच्या हार्दिक शुभेच्छा
+happy anniversary,spam,सालगिरह मुबारक,वर्धापन दिन शुभेच्छा
+happy,spam,खुश,आनंदी
+happy ramjan id,spam,हैप्पी रमजान ईद,रमजान ईदच्या शुभेच्छा
+happy enviroment day,spam,हैप्पी एनवायरनमेंट डे,पर्यावरण दिवसाच्या शुभेच्छा
+day,spam,दिन,दिवस
+congratulations,spam,बधाई हो,अभिनंदन
+we're hiring interns,ham,हम इंटर्न को काम पर रख रहे हैं,आम्ही इंटर्न भाड्याने घेत आहोत
+we arre hiring,ham,हम भर्ती कर रहे हैं,आम्ही भाड्याने घेत आहोत
+blood donation,ham,रक्तदान,रक्तदान
+register now,ham,अभी पंजीकरण करें,अाता नोंदणी करा
+eye checkup,ham,नेत्र की जाँच,डोळा तपासणी
+"Machine learning is type of AI that enables effectively growing and
+predicting outcomes using various domain such as mathematics
+computer science to build machine learning model.",ham,"मशीन लर्निंग एआई का प्रकार है जो प्रभावी रूप से बढ़ने में सक्षम बनाता है और
+गणित जैसे विभिन्न डोमेन का उपयोग करके परिणामों की भविष्यवाणी करना
+मशीन लर्निंग मॉडल बनाने के लिए कंप्यूटर विज्ञान।","मशीन लर्निंग हा एआयचा प्रकार आहे जो प्रभावीपणे वाढण्यास सक्षम करतो आणि
+गणितासारख्या विविध डोमेनचा वापर करून निकालांचा अंदाज
+मशीन लर्निंग मॉडेल तयार करण्यासाठी संगणक विज्ञान."
+"Supervised learning is a type of machine learning method in which we
+provide sample labeled data to the machine learning system in order to
+train it, and on that basis, it predicts the output.",ham,"पर्यवेक्षित शिक्षा एक प्रकार की मशीन सीखने की विधि है जिसमें हम
+मशीन लर्निंग सिस्टम को नमूना लेबल डेटा प्रदान करें
+इसे प्रशिक्षित करें, और उस आधार पर, यह आउटपुट की भविष्यवाणी करता है।","पर्यवेक्षी शिक्षण ही एक मशीन शिक्षण पद्धत आहे ज्यामध्ये आम्ही
+मशीन लर्निंग सिस्टमला नमुना लेबल केलेला डेटा प्रदान करा
+त्यास प्रशिक्षण द्या आणि त्या आधारावर, ते आउटपुटचा अंदाज लावते."
+Ok lar... Joking wif u oni.,ham,ठीक है लार ... मजाक wif u oni।,ठीक आहे ...
+Even my brother is not like to speak with me. They treat me like aids patent.,ham,यहां तक कि मेरा भाई मेरे साथ बात करना पसंद नहीं करता है।वे मुझे एड्स पेटेंट की तरह मानते हैं।,माझ्या भावालाही माझ्याशी बोलायला आवडत नाही.ते माझ्याशी एड्स पेटंटसारखे वागतात.
+"I'm gonna be home soon and i don't want to talk about this stuff anymore tonight, k? I've cried enou…",ham,"मैं जल्द ही घर जा रहा हूँ और मैं आज रात इस सामान के बारे में बात नहीं करना चाहता, के?मैं रोया enou…","मी लवकरच घरी येणार आहे आणि मला आज रात्री या सामग्रीबद्दल बोलायचे नाही, के?मी रडलो आहे एनो…"
+"SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6day.",spam,"नकद जीतने के छह मौके!100 से 20,000 पाउंड txt> csh11 और 87575 पर भेजें। लागत 150p/दिन, 6 दिन।","रोख जिंकण्याची सहा संधी!100 ते 20,000 पौंड टेक्स्ट> सीएसएच 11 पर्यंत आणि 87575 वर पाठवा. 150 पी/दिवस, 6 दिवस."
+"URGENT! You have won a 1 week FREE membership in our £100,000 Prize Jackpot! Txt the word: CLAIM to ...",spam,"अति आवश्यक!आपने हमारे £ 100,000 पुरस्कार जैकपॉट में 1 सप्ताह की मुफ्त सदस्यता जीती है!शब्द txt: दावा करने के लिए ...","तातडीचे!आमच्या £ 100,000 बक्षीस जॅकपॉटमध्ये आपण 1 आठवड्याचे विनामूल्य सदस्यता जिंकली आहे!टेक्स्ट हा शब्द: दावा ..."
+"XXXMobileMovieClub: To use your credit, click the WAP link in the next txt message or click here>> h..",spam,"XXXMOBILEMOVIECLUB: अपने क्रेडिट का उपयोग करने के लिए, अगले TXT संदेश में WAP लिंक पर क्लिक करें या यहां क्लिक करें >> H ..","Xxxmobilemoveiclub: आपली क्रेडिट वापरण्यासाठी, पुढील टीएक्सटी संदेशातील डब्ल्यूएपी दुव्यावर क्लिक करा किंवा येथे क्लिक करा >> एच .."
+Fine if that’s the way u feel. That’s the way its gota b,ham,ठीक है अगर वह जिस तरह से आपको लगता है।इस तरह से इसके गोटा बी,जर तुम्हाला असे वाटत असेल तर ठीक आहे.हेच त्याचा गोटा बी आहे
+England v India - dont miss the goals/team news. Txt ur national team to 87077 eg INDIA to 870…,spam,इंग्लैंड बनाम इंडिया - लक्ष्यों/टीम की खबर को याद न करें।TXT उर राष्ट्रीय टीम को 87077 ईजी भारत से 870 तक…,इंग्लंड विरुद्ध इंडिया - गोल/संघाची बातमी गमावू नका.टीएक्सटी यूआर नॅशनल टीम 87077 उदा. इंडिया ते 870…
+So ü pay first lar... Then when is da stock comin…,ham,तो ü पहले अंतिम भुगतान करें ... फिर स्टॉक कॉमिन कब है ...,तर ü प्रथम शेवटचे पैसे द्या ... मग स्टॉक कॉमिन कधी आहे…
+"Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! C Suprman V, Matrix3, Sta...",spam,"बधाई!2 के लिए 1 साल का विशेष सिनेमा पास आपका है।अब 09061209465 पर कॉल करें!सी सुपरमैन वी, मैट्रिक्स 3, एसटीए ...","अभिनंदन!2 साठी 1 वर्षाचा विशेष सिनेमा पास आपला आहे.आता 09061209465 वर कॉल करा!सी सुपरमॅन व्ही, मॅट्रिक्स 3, स्टा ..."
+kit,ham,किट,किट
+mharastra student invoation challenge,ham,मारास्ट्रा छात्र चालान चुनौती,मारास्ट्रा स्टुडंट इन्व्होएशन चॅलेंज
+hackathon,ham,आयोजित हैकथॉन,हॅकॅथॉन
+we're hiring interns,ham,हम इंटर्न को काम पर रख रहे हैं,आम्ही इंटर्न भाड्याने घेत आहोत
+we arre hiring,ham,हम भर्ती कर रहे हैं,आम्ही भाड्याने घेत आहोत
+blood donation,ham,रक्तदान,रक्तदान
+register now,ham,अभी पंजीकरण करें,अाता नोंदणी करा
+eye checkup,ham,नेत्र की जाँच,डोळा तपासणी
+"Machine learning is type of AI that enables effectively growing and
+predicting outcomes using various domain such as mathematics
+computer science to build machine learning model.",ham,"मशीन लर्निंग एआई का प्रकार है जो प्रभावी रूप से बढ़ने में सक्षम बनाता है और
+गणित जैसे विभिन्न डोमेन का उपयोग करके परिणामों की भविष्यवाणी करना
+मशीन लर्निंग मॉडल बनाने के लिए कंप्यूटर विज्ञान।","मशीन लर्निंग हा एआयचा प्रकार आहे जो प्रभावीपणे वाढण्यास सक्षम करतो आणि
+गणितासारख्या विविध डोमेनचा वापर करून निकालांचा अंदाज
+मशीन लर्निंग मॉडेल तयार करण्यासाठी संगणक विज्ञान."
+"Supervised learning is a type of machine learning method in which we
+provide sample labeled data to the machine learning system in order to
+train it, and on that basis, it predicts the output.",ham,"पर्यवेक्षित शिक्षा एक प्रकार की मशीन सीखने की विधि है जिसमें हम
+मशीन लर्निंग सिस्टम को नमूना लेबल डेटा प्रदान करें
+इसे प्रशिक्षित करें, और उस आधार पर, यह आउटपुट की भविष्यवाणी करता है।","पर्यवेक्षी शिक्षण ही एक मशीन शिक्षण पद्धत आहे ज्यामध्ये आम्ही
+मशीन लर्निंग सिस्टमला नमुना लेबल केलेला डेटा प्रदान करा
+त्यास प्रशिक्षण द्या आणि त्या आधारावर, ते आउटपुटचा अंदाज लावते."
+Ok lar... Joking wif u oni.,ham,ठीक है लार ... मजाक wif u oni।,ठीक आहे ...
+Ok lar... Joking wif u oni.,ham,ठीक है लार ... मजाक wif u oni।,ठीक आहे ...
+Even my brother is not like to speak with me. They treat me like aids patent.,ham,यहां तक कि मेरा भाई मेरे साथ बात करना पसंद नहीं करता है।वे मुझे एड्स पेटेंट की तरह मानते हैं।,माझ्या भावालाही माझ्याशी बोलायला आवडत नाही.ते माझ्याशी एड्स पेटंटसारखे वागतात.
+"I'm gonna be home soon and i don't want to talk about this stuff anymore tonight, k? I've cried enou…",ham,"मैं जल्द ही घर जा रहा हूँ और मैं आज रात इस सामान के बारे में बात नहीं करना चाहता, के?मैं रोया enou…","मी लवकरच घरी येणार आहे आणि मला आज रात्री या सामग्रीबद्दल बोलायचे नाही, के?मी रडलो आहे एनो…"
+good bye,ham,अलविदा,चांगले बाय
+lottery,spam,लॉटरी,लॉटरी
+win,spam,जीतना,विजय
+Congratulations,spam,बधाई हो,अभिनंदन
+You've won a prize,spam,आपने एक इनाम जीता है,तुम्हाला एक उपहार मिळाला
+Important information,ham,महत्वपूर्ण जानकारी,महत्वाची माहिती
+Job opportunity,spam,नौकरी का मौका,कामाचा अवसर
+"Buy one, get one free",spam,"एक खरीदो, एक मुफ्त पाओ","एक विकत घ्या, एक मोफत मिळवा"
+Urgent: Call me now!,spam,तुरंत: मुझे अभी फ़ोन करें!,तुरंत: माझ्याला आता कॉल करा!
+Exam results are out,ham,परीक्षा के नतीजे आ गए हैं,परीक्षा निकाल आले आहेत
+Happy anniversary,spam,सालगिरह मुबारक,वर्धापन दिन शुभेच्छा
+Special offer for you,spam,आपके लिए विशेष पेशकश,आपल्याला विशेष ऑफर
+Reminder: Meeting at 3 PM,ham,याद दिलाना: सांझ 3 बजे मिलो,सुचना: सांज 3 वाजता भेट द्या
+Good morning,spam,शुभ प्रभात,शुभ प्रभात
+Have a great day!,spam,आपका दिन शुभ हो,तुमचा दिवस सुखद जावो
+Sweet dreams,spam,मीठे सपने,आनंदी सपने
+Good night,spam,शुभ रात्रि,शुभ रात्री
+Sleep tight,spam,गहरी नींद करो,गोड नायट
+See you in the morning,ham,सुबह मिलेंगे,सकाळी भेटू
+Wishing you a peaceful night,spam,आपको शांति से रात बिताने की शुभकामनाएँ,आपल्याला शांत रात्री असावी ही शुभेच्छा
+Win a free smartphone,spam,मुफ्त स्मार्टफ़ोन जीतें,मोफत स्मार्टफोन किंवा टॅबलेट विजता या
+Happy anniversary to us,spam,हमारा सालगिरह,आपला वर्धापन दिन
+Join our loyalty program,spam,हमारे वफादारी कार्यक्रम में शामिल हों,आमच्या वफादारी कार्यक्रमात सामील व्हा
+Important meeting at 2 PM,ham,सांझ 2 बजे महत्वपूर्ण मीटिंग,सुचना: संध्याकाळी 2 वाजता महत्वाची भेट
+Don't miss out,spam,छूने की आवश्यकता नहीं है,विसरू नका
+Happy Father's Day,spam,खुशियों का मौका,आनंदी वडिलांच्या दिनाच्या शुभेच्छा
+Limited-time offer,spam,सीमित समय की पेशकश,सीमित वेळाची ऑफर
+Have a wonderful weekend,spam,एक शानदार वीकेंड हो,एक सुंदर आठवडा हो
+Farewell party tonight,spam,विदाई पार्टी आज रात को,विदाई पार्टी आज रात्री
+Happy Monday!,spam,खुश शुक्रवार!,आनंदी सोमवार!
+Spread kindness,spam,दया फैलाएं,उधळण्यात दया फैलवा
+Always stay positive,spam,हमेशा सकारात्मक रहें,सदैव सकारात्मक रहा
+Embrace every moment,spam,हर पल को गले लगाओ,प्रत्येक क्षणाला स्वीकारा
+Live in the present,spam,वर्तमान में जिए,वर्तमानात जगा
+Dreams come true,spam,सपने सच होते हैं,स्वप्न साकार होतात
+Keep smiling,spam,मुस्कराते रहो,हसण्याची सवय
+Be the best version of you,spam,आपका सबसे अच्छा स्वरूप बनें,आपल्या सर्वोत्तम स्वरुपाची जगा
+Believe in yourself,spam,खुद पर भरोसा रखो,स्वत:ला विश्वास ठेवा
+Love conquers all,spam,प्रेम सबकुछ जीतता है,प्रेम सर्वांच्या सामर्थ्याला नियंत्रित करतो
+Keep your faith strong,spam,अपना विश्वास मजबूत रखो,आपल्या विश्वासाची शक्ती ठेवा
+Unlock divine blessings,spam,दिव्य आशीर्वाद को खोलो,दिव्य आशीर्वाद सुट्का
+Instant spiritual guidance,spam,तुरंत आध्यात्मिक मार्गदर्शन,तुरंत आध्यात्मिक मार्गदर्शन
+Sacred healing miracles,spam,पवित्र चिकित्सा चमत्कार,पवित्र उपचार अद्वितीय
+Divine intervention,spam,दिव्य हस्तक्षेप,दिव्य हस्तक्षेप
+Guaranteed blessings,spam,निश्चित आशीर्वाद,आश्चर्यजनक आशीर्वाद
+Faith is your strength,ham,आपका आश्वास है,आपल्या विश्वासला तुमच्या बळ
+Pray for peace and unity,ham,शांति और एकता के लिए प्रार्थना करें,शांती आणि एकत्वाच्या वाटेल प्रार्थना
+Embrace the light within,ham,अंदर के प्रकाश को ग्रहण करो,आपल्या आंतर्ज्योतीला स्वीकार करा
+Spiritual growth is a journey,ham,आध्यात्मिक विकास एक प्रयास आहे,आध्यात्मिक विकास एक प्रवास आहे
+God's love knows no bounds,ham,भगवान का प्यार सीमा की परेशानी नहीं,देवाचा प्रेम मर्यादा जाणार नाही
+Seek divine blessings in moments,spam,क्षणों में दिव्य आशीर्वाद खोजें,क्षणांत दिव्य आशीर्वाद शोधा
+Join our sacred pilgrimage journey,spam,हमारे पवित्र तीर्थयात्रा सफर में शामिल हों,आमच्या पवित्र तीर्थयात्रेत आणण्यात जोडल्यास
+"Miracles await, just have faith",spam,"चमत्कार इंतजार कर रहे हैं, बस आपकी आस्था बनी रहे","आश्चर्यचे प्रतीक्षा आहे, फक्त तुमच्या विश्वासाचा आकर्षण राहो"
+Sacred offerings for divine blessings,spam,दिव्य आशीर्वाद के लिए पवित्र अर्पण,दिव्य आशीर्वादाच्या लाभासाठी पवित्र उपहार
+Eternal peace through meditation,spam,ध्यान के माध्यम से शाश्वत शांति,ध्यानद्वारे शाश्वत शांती
+Faith brings inner serenity,ham,आस्था आपके आंतरिक शांति लाती है,विश्वास तुमच्या आत्मिक शांतिला आणतो
+Walk the path of righteousness,ham,धर्मपरायण राह पर चलें,धर्माच्या मार्गावर प्रवास करा
+May you find solace in prayers,ham,प्रार्थनाओं में शांति पाएं,प्रार्थनेमध्ये तुम्हाला समाधान मिळो
+Compassion is the key to kindness,ham,दयालुता दयाचा कीलया आहे,दयाच्या मुळावर दयाळूपणा
+Connect with the divine within,ham,आपके अंदर को दिव्य से जोड़ो,आपल्याला आपल्या आंतरिक दिव्याच्या संबंधात आणणार्
+Blessings of peace upon you,ham,शांति के आशीर्वाद आपके ऊपर हों,आपल्या वर शांतीच्या आशीर्वाद
+Walk the path of compassion,ham,दयालुता के मार्ग पर चलें,दयाच्या मार्गावर प्रवास करा
+Seek solace in prayer,ham,प्रार्थना में शांति की तलाश करें,प्रार्थनेत आनंद शोधा
+Faith is your inner strength,ham,आपकी आस्था आपकी आंतरिक शक्ति है,विश्वास आपल्या आंतर्ज्योतीला तुमच्या बळ देतो
+Harmony in diversity,ham,विविधताओं में सामंजस्य,विविधतेत सानंद
+Prayer is a connection to the divine,ham,प्रार्थना दिव्य से जुड़ने का माध्यम है,प्रार्थना दिव्य संबंधित आहे
+Kindness knows no boundaries,ham,दयालुता की कोई सीमा नहीं,दयाच्या मर्यादा नसताना
+May peace reside in your heart,ham,शांति आपके दिल में बसे,शांती तुमच्या हृदयात वास करो
+Faith is the answer to uncertainty,ham,विश्वास अनिश्चितता का उत्तर है,अनिश्चिततेला विश्वास सोडवतो
+Find serenity through meditation,ham,ध्यान के माध्यम से शांति पाएं,ध्यानाच्या माध्यमे आपल्याला शांती मिळाली
+Divine blessings await you,spam,"आपका इंतजार है, दिव्य आशीर्वाद",आपल्याला आशीर्वाद वाटत आहे
+Unlock your spiritual potential,spam,अपनी आध्यात्मिक क्षमता को खोलें,आपल्या आध्यात्मिक क्षमतेचा तालाबंद करा
+Sacred rituals for prosperity,spam,समृद्धि के लिए पवित्र आचरण,संपदा साठी पवित्र विधी
+Pray for a miracle in your life,spam,अपने जीवन में चमत्कार की प्रार्थना करें,आपल्या जीवनात आश्चर्याची प्रार्थना करा
+Spiritual awakening is the key,spam,आध्यात्मिक जागरूकता है कुंजी,आध्यात्मिक जागरूकता म्हणजे कील
+Exclusive blessings for believers,spam,विश्वासी के लिए विशेष आशीर्वाद,विश्वासींसाठी विशेष आशीर्वाद
+Sacred journey to find inner peace,spam,आंतरिक शांति पाने के लिए पवित्र यात्रा,आंतरिक शांतीसाठी पवित्र प्रवास
+Divine love: Your guiding light,spam,दिव्य प्रेम: आपकी मार्गदर्शक दीपक,दिव्य प्रेम: तुमच्या मार्गदर्शक प्रकाश
+Immerse in sacred blessings,spam,पवित्र आशीर्वाद में विलीन हो,पवित्र आशीर्वादात लुटा
+Miracles unfold through faith,spam,आशा के माध्यम से चमत्कार खुलते हैं,विश्वासातील माध्यमे आश्चर्य उघडतात
+,ham,,
+"s
+  no
+  3
+  4
+  e
+  ieee(al
+  resource name
+  society
+  periodical
+  package-
+  aspp)
+  2 j-gate
+  kolhapur institute
+  college
+  engineering
+  kolhapur
+  knowledge
+  library
+  science
+  direct
+  (elsevier e-
+  journals)
+  delnet
+  hub virtual infotrack
+  6 turnitin
+  vendor
+  ebsco
+  details of e-resources
+  gist
+  delnet
+  e-resource
+  details
+  turnitin
+  28875 ft
+  192 journals https://ieeexplore.ieee.org
+  intormaticsjournals + e- password- kitceadminl421297876|
+  resources
+  10152
+  journals +
+  5630 books
+  central library
+  10000 e-
+  books
+  website address
+  plagiarism
+  checking
+  https://igateplus.com
+  software
+  username- kitceadmin
+  296 journals https://www.sciencedirect.com
+  username- kitceuser
+  860 e journals http://www.delnet.nic.in
+  username- mhkitce
+  password- kit6913j
+  password -kitceuser1986542675
+  k-hub.in
+  username- kbi352kop
+  password- fm93nlni̇
+  access
+  throughout
+  kit
+  campus
+  and
+  remote",ham,s no 3 4 e ieee(al resource name society नियतकालिक पॅकेज- aspp) 2 j-गेट कोल्हापूर इन्स्टिट्यूट कॉलेज अभियांत्रिकी कोल्हापूर नॉलेज लायब्ररी सायन्स डायरेक्ट (एलसेव्हियर ई- जर्नल्स) डेलनेट हब व्हर्च्युअल इन्फोट्रॅक 6 टर्निटिन विक्रेता ebsco तपशील ई-संसाधनांचा सारांश ई-संसाधन तपशील टर्निटिन 28875 फूट 192 जर्नल्स https://ieeexplore.ieee.org intormaticsjournals e- password- kitceadminl421297876| संसाधने 10152 जर्नल्स 5630 पुस्तके केंद्रीय ग्रंथालय 10000 ई-पुस्तके वेबसाइट पत्ता साहित्यिक चोरी,क्रमांक 3 4 ई आईईईई (अल रिसोर्स नेम सोसाइटी पीरियोडिकल पैकेज- एएसपीपी) 2 जे-गेट कोल्हापुर इंस्टीट्यूट कॉलेज इंजीनियरिंग कोल्हापुर नॉलेज लाइब्रेरी साइंस डायरेक्ट (एल्सेवियर ई-जर्नल्स) डेलनेट हब वर्चुअल इन्फोट्रैक 6 टर्निटिन वेंडर एब्स्को ई-रिसोर्सेज का विवरण जिस्ट डेलनेट ई-संसाधन विवरण टर्निटिन 28875 फीट 192 जर्नल्स https://ieeexplore.ieee.org intormaticsjournals ई-पासवर्ड- kitceadminl421297876| संसाधन 10152 पत्रिकाएँ 5630 पुस्तकें केंद्रीय पुस्तकालय 10000 ई-पुस्तकें वेबसाइट पता साहित्यिक चोरी
+s no 3 4 e ieee(al resource name society periodical package- aspp) 2 j-gate kolhapur institute college engineering kolhapur knowledge library science direct (elsevier e- journals) delnet hub virtual infotrack 6 turnitin vendor ebsco details of e-resources gist delnet e-resource details turnitin 28875 ft 192 journals  intormaticsjournals + e- password- kitceadminl421297876| resources 10152 journals + 5630 books central library 10000 e- books website address plagiarism checking  software username- kitceadmin 296 journals  username- kitceuser 860 e journals  username- mhkitce password- kit6913j password -kitceuser1986542675 k-hub.in username- kbi352kop password- fm93nlni̇ access throughout kit campus and remote,ham,क्रमांक 3 4 ई आईईईई (अल रिसोर्स नेम सोसाइटी पीरियोडिकल पैकेज- एएसपीपी) 2 जे-गेट कोल्हापुर इंस्टीट्यूट कॉलेज इंजीनियरिंग कोल्हापुर नॉलेज लाइब्रेरी साइंस डायरेक्ट (एल्सेवियर ई-जर्नल्स) डेलनेट हब वर्चुअल इन्फोट्रैक 6 टर्निटिन वेंडर एब्स्को ई-रिसोर्सेज का विवरण जिस्ट डेलनेट ई-संसाधन विवरण टर्निटिन 28875 फीट 192 जर्नल्स इंटोरमैटिक्सजर्नल्स ई-पासवर्ड- kitceadminl421297876| संसाधन 10152 पत्रिकाएँ 5630 पुस्तकें केंद्रीय पुस्तकालय 10000 ई-पुस्तकें वेबसाइट पता साहित्यिक चोरी जाँच सॉफ्टवेयर उपयोगकर्ता नाम-,s no 3 4 e ieee(al resource name society नियतकालिक पॅकेज- aspp) 2 j-गेट कोल्हापूर इन्स्टिट्यूट कॉलेज इंजिनीअरिंग कोल्हापूर नॉलेज लायब्ररी सायन्स डायरेक्ट (एलसेव्हियर ई- जर्नल्स) डेलनेट हब व्हर्च्युअल इन्फोट्रॅक 6 टर्निटिन विक्रेता ebsco तपशील ई-संसाधनांचा सारांश ई-संसाधन तपशील टर्निटिन 28875 फूट 192 जर्नल्स इनरमॅटिक्स जर्नल्स ई-पासवर्ड- kitceadminl421297876| संसाधने 10152 जर्नल्स 5630 पुस्तके सेंट्रल लायब्ररी 10000 ई-पुस्तके वेबसाइट पत्ता साहित्यिक चोरीची तपासणी सॉफ्टवेअर वापरकर्तानाव-
+"Content-
+1. Effective Communication
+COURSES ELIGIBLE FOR FIRST, SECOND, THIRD YEAR ENGINEERING
+Basic Presentation Skills
+3. Teamwork
+4. Problem-Solving
+5. Adaptability
+ENGINEERING ELEVATE: NAVIGATING SOFT SKILLS,
+COMMUNICATION, AND SPOKEN ENGLISH FROM
+6. Time Management
+7. Critical Thinking
+8. Leadership Fundamentals
+9. Group Discussion
+10. Interview
+11. Interview Questions
+12. Group Discussion Etiquette
+MR. SANR KITTUR
+(oWNER & FOUNDER)
+FRESHMAN TO GRADUATE COURSE
+( CERTIFICATION WILL BE GIVEN )
+Apti King Sanir Kittur Sir's
+Leading Campus Recruitment
+Training in Western Maharashtra
+13. Conflict Resolution Basics
+14. Interpersonal Skills
+15. Decision-Making Essentials
+16. Basic Networking
+17. Introduction to Creativity
+18. Stress Management Fundamentals
+19. Professional Etiquette Basics
+20. Grooming
+22. Resume
+21. Grooming & body language
+23. Resume Building
+FOR MORE INFORMATION CONTACT-
+24. Personality Development
+MR. SANIR KITTUR
+9766337882 9561433516
+FEES - 1000/
+MR, SHRIKANT SUNDARAGIRI
+(KEYNOTE SPEAKER)
+DURATION 40 HOUR
+ONLINE ON ZOOM
+PLATFORM
+Apti King Sanir Kittur Sir's
+APTTECH
+ding Campus Reer
+Tra
+9 Maharashtra",spam,"सामग्री-
+1. प्रभावी संचार
+इंजीनियरिंग के प्रथम, द्वितीय, तृतीय वर्ष के लिए पात्र पाठ्यक्रम
+बुनियादी प्रस्तुति कौशल
+3. टीम वर्क
+4. समस्या-समाधान
+5. अनुकूलनशीलता
+इंजीनियरिंग एलिवेट: नेविगेटिंग सॉफ्ट स्किल्स,
+संचार, और बोली जाने वाली अंग्रेजी से
+6. समय प्रबंधन
+7. आलोचनात्मक सोच
+8. नेतृत्व के मूल सिद्धांत
+9. समूह चर्चा
+10. साक्षात्कार
+11. साक्षात्कार प्रश्न
+12. समूह चर्चा शिष्टाचार
+श्री। संर कित्तूर
+(मालिक","सामग्री-
+1. प्रभावी संप्रेषण
+प्रथम, द्वितीय, तृतीय वर्ष अभियांत्रिकीसाठी पात्र अभ्यासक्रम
+मूलभूत सादरीकरण कौशल्ये
+3. टीमवर्क
+4. समस्या सोडवणे
+5. अनुकूलता
+अभियांत्रिकी उन्नत: सॉफ्ट स्किल्स नेव्हिगेट करणे,
+संप्रेषण, आणि इंग्रजीतून बोलले
+6. वेळ व्यवस्थापन
+7. गंभीर विचार
+8. नेतृत्व मूलभूत तत्त्वे
+9. गट चर्चा
+10. मुलाखत
+11. मुलाखतीचे प्रश्न
+12. गट चर्चा शिष्टाचार
+श्री. सनर कित्तूर
+(oWNER"
+"InTrAinZ
+( Certificate ID )
+Certificate of internship
+is proudly presented to
+Rahul Sharma
+This is to certify that Mr. Rahul Sharma has successfully completed his
+internship in Machine Learning from 2/3/2022 to 2/5/2022. He/She
+performed very well and we found him/her to be keen and enthusiastic
+during the program.
+Signature
+Head of Operations",ham,"InTrAinZ
+(प्रमाणपत्र आईडी)
+इंटर्नशिप का प्रमाण पत्र
+गर्व से प्रस्तुत किया गया है
+राहुल शर्मा
+यह प्रमाणित किया जाता है कि श्री राहुल शर्मा ने अपना कार्य सफलतापूर्वक पूरा कर लिया है
+2/3/2022 से 2/5/2022 तक मशीन लर्निंग में इंटर्नशिप। वह वह
+बहुत अच्छा प्रदर्शन किया और हमने पाया कि वह उत्सुक और उत्साही है
+कार्यक्रम के दौरान.
+हस्ताक्षर
+आपरेशन का मुखिया","InTrAinZ
+(प्रमाणपत्र आयडी)
+इंटर्नशिपचे प्रमाणपत्र
+यांना अभिमानाने सादर केले आहे
+राहुल शर्मा
+राहुल शर्मा यांनी यशस्वीरित्या पूर्ण केल्याचे हे प्रमाणित करण्यासाठी आहे
+2/3/2022 ते 2/5/2022 पर्यंत मशीन लर्निंगमध्ये इंटर्नशिप. तो ती
+खूप चांगले प्रदर्शन केले आणि आम्हाला तो/ती उत्सुक आणि उत्साही असल्याचे आढळले
+कार्यक्रमादरम्यान.
+स्वाक्षरी
+संचालन प्रमुख"
+InTrAinZ ( Certificate ID ) Certificate of internship is proudly presented to Rahul Sharma This is to certify that Mr. Rahul Sharma has successfully completed his internship in Machine Learning from 2/3/2022 to 2/5/2022. He/She performed very well and we found him/her to be keen and enthusiastic during the program. Signature Head of Operations,ham,InTrAinZ (प्रमाणपत्र आईडी) इंटर्नशिप का प्रमाण पत्र गर्व से प्रस्तुत किया गया है राहुल शर्मा यह प्रमाणित किया जाता है कि श्री राहुल शर्मा ने अपना कार्य सफलतापूर्वक पूरा कर लिया है 2/3/2022 से 2/5/2022 तक मशीन लर्निंग में इंटर्नशिप। वह वह बहुत अच्छा प्रदर्शन किया और हमने पाया कि वह उत्सुक और उत्साही है कार्यक्रम के दौरान. हस्ताक्षर आपरेशन का मु,InTrAinZ (प्रमाणपत्र आयडी) इंटर्नशिपचे प्रमाणपत्र यांना अभिमानाने सादर केले आहे राहुल शर्मा राहुल शर्मा यांनी यशस्वीरित्या पूर्ण केल्याचे हे प्रमाणित करण्यासाठी आहे 2/3/2022 ते 2/5/2022 पर्यंत मशीन लर्निंगमध्ये इंटर्नशिप. तो ती खूप चांगले प्रदर्शन केले आणि आम्हाला तो/ती उत्सुक आणि उत्साही असल्याचे आढळले कार्यक्रमादरम्यान. स्व
+"Content- 1. Effective Communication COURSES ELIGIBLE FOR FIRST, SECOND, THIRD YEAR ENGINEERING Basic Presentation Skills 3. Teamwork 4. Problem-Solving 5. Adaptability ENGINEERING ELEVATE: NAVIGATING SOFT SKILLS, COMMUNICATION, AND SPOKEN ENGLISH FROM 6. Time Management 7. Critical Thinking 8. Leadership Fundamentals 9. Group Discussion 10. Interview 11. Interview Questions 12. Group Discussion Etiquette MR. SANR KITTUR (oWNER & FOUNDER) FRESHMAN TO GRADUATE COURSE ( CERTIFICATION WILL BE GIVEN ) Apti King Sanir Kittur Sir's Leading Campus Recruitment Training in Western Maharashtra 13. Conflict Resolution Basics 14. Interpersonal Skills 15. Decision-Making Essentials 16. Basic Networking 17. Introduction to Creativity 18. Stress Management Fundamentals 19. Professional Etiquette Basics 20. Grooming 22. Resume 21. Grooming & body language 23. Resume Building FOR MORE INFORMATION CONTACT- 24. Personality Development MR. SANIR KITTUR 9766337882 9561433516 FEES - 1000/ MR, SHRIKANT SUNDARAGIRI (KEYNOTE SPEAKER) DURATION 40 HOUR ONLINE ON ZOOM PLATFORM Apti King Sanir Kittur Sir's APTTECH ding Campus Reer Tra 9 Maharashtra",spam,"सामग्री- 1. प्रथम, द्वितीय, तृतीय वर्ष इंजीनियरिंग के लिए प्रभावी प्रभावी संचार पाठ्यक्रम, बुनियादी प्रस्तुति कौशल 3. टीम वर्क 4. समस्या-समाधान 5. अनुकूलन क्षमता इंजीनियरिंग उन्नयन: सॉफ्ट स्किल्स, संचार और बोली जाने वाली अंग्रेजी को नेविगेट करना 6. समय प्रबंधन 7. महत्वपूर्ण सोच 8. नेतृत्व के बुनियादी सिद्धांत 9. समूह चर्चा 10. साक्षात्कार 11. साक्षात्कार प्रश्न 12. समूह चर्चा शिष्टाचार एमआर। संर कित्तूर (मालिक)","सामग्री- 1. प्रभावी संप्रेषण अभ्यासक्रम प्रथम, द्वितीय, तृतीय वर्ष अभियांत्रिकी मूलभूत सादरीकरण कौशल्ये 3. टीमवर्क 4. समस्या सोडवणे 5. अनुकूलनक्षमता अभियांत्रिकी उन्नत: नॅव्हिगेशन, नॅव्हिगेशन, नॅव्हिगेशन, प्रशिक्षण ओएम 6. वेळ व्यवस्थापन 7. गंभीर विचार करणे 8. नेतृत्वाची मूलभूत तत्त्वे 9. गट चर्चा 10. मुलाखत 11. मुलाखतीचे प्रश्न 12. गटचर्चा शिष्टाचार MR. SANR कित्तूर (मालक"
+"@app.route('/login', methods= [ ' post']) def login(): if request . method == post': name = request.form['name'] prn = request. form['prn'] class_ = request.form[' class'] email = request. form['email'] phone_no = request. form[' phone_no']",ham,"@app.route('/लॉगिन', विधियां= ['पोस्ट']) डीईएफ़ लॉगिन(): यदि अनुरोध। विधि == पोस्ट': नाम = अनुरोध.फॉर्म['नाम'] पीआरएन = अनुरोध। form['prn'] class_ = request.form[' class'] email = request. फॉर्म['ईमेल'] फ़ोन_नो = अनुरोध. फॉर्म['फ़ोन_नो']","@app.route('/login', methods= [ 'post']) def login(): विनंती असल्यास . पद्धत == पोस्ट': name = request.form['name'] prn = विनंती. form['prn'] class_ = request.form[' class'] ईमेल = विनंती. फॉर्म['ईमेल'] फोन_नो = विनंती. फॉर्म['फोन_नंबर']"
+"Maharashtra, INDIA Tel, 91 7769001199, 9168781199 Fax 91 231 2638881 Email: infokitcoek.in Web: www.kitcoek.in KITICEK O1485 ACR NOTICE Only students from sC category whose parents have an annual income of two lakh fifty thousand for regular admission in the academic year 2023-24 is less than and the applications for Salakarita Swadhar Yojana 2023-24 have started for the students residing in the college or private hostel. However, Swadhar Yojana applications with documents dated 03/11/2023 before M",ham,"महाराष्ट्र, भारत दूरभाष, 91 7769001199, 9168781199 फैक्स 91 231 2638881 ईमेल: infokitcoek.in वेब: www.kitcoek.in KITICEK O1485 ACR नोटिस नियमित प्रवेश के लिए केवल एससी वर्ग के छात्र जिनके माता-पिता की वार्षिक आय दो लाख पचास हजार है। शैक्षणिक वर्ष 2023-24 से कम है और कॉलेज या निजी छात्रावास में रहने वाले छात्रों के लिए सलकारिता स्वाधार योजना 2023-24 के लिए आवेदन शुरू हो गए हैं। हालाँकि, स्वधार योजना के आवेदन दिनांक 03/11/2023 से पहले के दस्तावेजों के साथ","Maharashtra, INDIA Tel, +91 7769001199, 9168781199 Fax +91 231 2638881 Emall :infookitcoek.in Web: www.kitcoek.in KITICEK O1485 अक्र नोटीस शैक्षणिक वर्ष २०२३-२४ मध्ये नियमित प्रवेश घेतलेल्या फक्त sC प्रवर्गातील ज्या विद्याथ्थ्याच्या पालकांचे वार्षिक उत्पन्न दोन लाख पन्नास हजार पेक्षा कमी आहे व महाविद्यालयाचे अथवा खाजगी वसतीगृहात वास्तव्यास असणान्या विध्याथ्थ्यांसाठी २०२३-२४ सालाकारिता स्वाधार योजनेचे अर्ज भरण्यास सुरुवात झाली आहे. तरी स्वाधार योजनेचे अर्जे कागदपत्रासह दिनांक ०३/११/२०२३ पूर्वीं महाविद्यालयामध्ये जमा करावित. स्वाधार योजनेच्या अर्जसोबत खालीलप्रमाणे कागदफत्रे जोडावीत. तपशील जात प्रमाणपत्र व जात वेधता प्रमाणपत्र OF TECINOLOGY'S COLLEGE OF ENGIN EERING KOLHAPUR An Autonomous Institute Accredited 'A' Grade by NAAC with CGPA 3.12 अर्ज - महाविद्यालयाच्या आवारातील झेरॉक्स सेंटर म्ये उपलब्ध आहे. आधार संलग्नित असलेले बँक पास बुक 9 विद्यार्थी महाराष्ट्राचा रहिवासी असलेचा दाखला (तहसीलदार यांच्या सहीचा) 2)1•2023. 200CT 2023 वसतिगृहाम्ये राहत असलेबाबतचे प्रमाणपत्र, खाजगी वसतिगृहात वास्तव्यास असल्यास भाडे करार जोड़णे. Moy&nlho वड़िलांच्या नावाचा उत्पत्नाचा दाखला २.५००००/- च्या आतील. | (तहसीलदार यांच्या सहीचा) वृर्षाचे: गुण्पत्रक किमान ५০% गुण आवश्यक konblAi सचालक पत सर्व विभागप्रमुख यांनी सदरची नोटीस तात्काळ आपल्या विभास्मूतील सर्व विद्याथ्यांच्या निदर्शना"
+"DreÇhat Sshath Joshi 11th October Jai Shri Ram Jai Hari Vithu Mauli Shubh Budhwau Jai Shri Krishna Rama's Conduct Krishna's Thought Hari's Utterance On Whose Arms Ram Kuhri Chikriyaduri Suresh Joji 18121081 Laik Maherach Scene, Laik Flute Tune Laik Agni Painjan, Who Has A Daughter Vy Nishibvan Mother Babina Beloved Of His Wife Kanyaila Atrayyali",spam,"द्रेÇहत षष्ठ जोशी 11 अक्टूबर जय श्री राम जय हरि विठू मौली शुभ बुधवौ जय श्री कृष्ण राम का आचरण कृष्ण का विचार हरि का कथन जिनकी भुजाओं पर राम कुहरी चिक्रियादुरी सुरेश जोजी 18121081 लाइक महेराच दृश्य, लाइक बांसुरी धुन लाइक अग्नि पेंजन, जिनकी एक बेटी है व्या निशिबवन मां बबीना उनकी पत्नी कन्याला अत्रेयली की प्रिय हैं","DreÇhat स्षथ जोशी ११ ऑक्टोबर जय श्रीराम जय हरी विठु माऊली शुभ बुधवाउ जय श्रीकृष्ण रामाचा आचार कृष्णाचा विचार हरीचा उच्चार ज्यांच्या अंगी त्यंच्यावर राम कु्ाहरी चीकृयादुरी सुरेश जोजी 18121081 लैक माहेराच सीन, लैक बासरीची धून लैक अगणी पैंजण, ज्याना मुलगी आहे व्या नशिबवान आई बाबीना वत्यांच्या लाडक्या कन्यैला अतरा्ययालि"
+"ShareChat @dharmaraj waghade, Na.... Marathi pride of Marathi soil, Marathi pride of Marathi love... Today will bring a day like gold, happiness and prosperity in life... Dasshar:",spam,"ShareChat @धर्मराज वाघाड़े, ना.... मराठी माटी का मराठी गौरव, मराठी प्रेम का मराठी गौरव... आज का दिन जीवन में सोने जैसा सुख-समृद्धि लाएगा... दशर:","ShareChat @धर्मराज वाघाडे, न.... मराठी मातीची मराठी शान, मराठी प्रेमाचा मराठी मान... आज सोन्यासारखा दिवस घेऊन येईल आयुष्यात सर्वीच्या सुख आणि समृद्धी छान... दस्षर:"
+"ShareChat sadhanay918 sadbangicdiar 2023 8166 vueypes sos Morning Vijayadashami Sca sadhana 9918 Aapkyahan sadhana 9918 Give him the shape of Hadaya, the bond of the heart, the bell of love for them, the joy of the moments of happiness, the wishes should be accepted on the occasion of Vijayadashami Sca sadhana 991 Happy Tuesday to you and your sweet family Vijayadashami Dasanya Mind: Purvak Best wishes to all. sadhana 9918 Sca sadhana 9918",spam,"शेयरचैट साधनाय918 सैडबंगिकडियार 2023 8166 वीयूईपीएस एसओएस प्रातः विजयादशमी एससी साधना 9918 आपकाहं साधना 9918 उन्हें हदया का रूप दो, हृदय का बंधन, उनके लिए प्रेम की घंटी, खुशी के क्षणों की खुशी, शुभकामनाएं स्वीकार की जानी चाहिए विजयादशमी का अवसर एससी साधना 991 आपको और आपके प्यारे परिवार को मंगलवार की शुभकामनाएँ विजयादशमी दासन्या मन: पूर्वक सभी को शुभकामनाएँ। साधना 9918 एससीए साधना 9918","ShareChat sadhanay918 sadbangicdiar 2023 8166 vueypes sos सकाळ विजयादशमी Sca sadhana 9918 आपक्यहान sadhana 9918 त्याला हदयाचा आकार, मनाचे बंध त्यांना प्रेमाची झंकार, आनंदाच्यां क्षणांना सविचा रूकार, विजयादशमीच्या निमित्ताने करावा शुभेच्छांचा स्वीकार Sca sadhana 991 शुभ मंगळवार तुम्हाला व तुमच्या गोड परिवारराला विजयादशमी दसन्याच्या मन:पुर्वक सर्वना हार्दिक शुभेच्छा. sadhana 9918 Sca sadhana 9918ख्छा"
+"Sarvith is a good companion, his health is good... If her companionship is broken, Matan is a burden to every relation and live happily in his own way...",spam,"सर्विथ एक अच्छा साथी है, उसका स्वास्थ्य अच्छा है... अगर उसका साथ टूट गया, तो मटन हर रिश्ते पर बोझ है और अपने तरीके से खुशी से रहता है...","सरवीत चांगली सहकारी, त्याची प्रकृती आहे... तिची साथ मुटली तर मात्न त प्रत्येक नात्यास्ाठी ओोझे हीत म्हणून आपिल्या प्रकूतीकड़े व सुखाने जगा..."
+"Bhadra and Subhadra Shah, listen. If you are looking ugly on the day of Rakshabandhan, can't you tie Rakhi? please tell. Issued in public interest: Do not confuse your mind with things about which you know nothing, neither with any parrot-printer nor with any Rattu almanac! Let me tell you the secret! enjoy! For the rest of your life, whenever you want to do Bhadra Parihar, first keep a thread near Lord Krishna! Shani's sister Bhadra transforms into Subhadra.",spam,भद्रा और सुभद्रा शाह सुनो ना॥ रक्षाबंधन वाले दिन भद्ा लग रही है तो क्या राखी नही बांध सकते? कृपया बताये। जनहित में जारी मत उलझाओ अपने दिमाग मे न बातों के लिए जिनका तुम्हे कुछ न पता न किसी तोता छाप शास्त्री को न किसी रट्टू पंचांगी को ! रहस्य बता देता हूँ! मजे करो! जिंदगी भर के लिए तो जब भी भद्रा परिहार करना हो एक धागा पहले कृष्ण जी के पास रख देना! शनि की बहन भद्रा सुभद्रा में बदल जाती ह,"भद्रा आणि सुभद्रा शहा, ऐका. रक्षाबंधनाच्या दिवशी तुम्ही कुरूप दिसत असाल तर राखी बांधता येत नाही का? कृपया सांगा. सार्वजनिक हितासाठी जारी: ज्या गोष्टींबद्दल तुम्हाला काहीही माहिती नाही, कोणत्याही पोपट-मुद्रकाने किंवा कोणत्याही रत्तू पंचांगात, तुमच्या मनात गोंधळ घालू नका! मी तुला गुपित सांगतो! आनंद घ्या! आयुष्यभर, जेव्हा केव्हा तुम्हाला भद्रा परिहार करायचा असेल तेव्हा प्रथम भगवान श्रीकृष्णाजवळ एक धागा ठेवा! शनीची बहीण भद्राचे रूपांतर सुभद्रात होते."
+"Shubham Trades & Construction Seperate Bungalow for Sale, Kalba. Features Your dream home within your budget! Debut your very own building on auspicious occasion! 7249874057 INDEPENDENT 7/120 LIGHT, WATER, ROADS ALL FACILITIES APPOINTED INDEPENDENT BOREWELL LOAN FACILITY 0TRANSPARENT TRANSACTION BOOKINGATI",spam,"शुभम ट्रेड्स एंड कंस्ट्रक्शन बिक्री के लिए अलग बंगला, कालबा। विशेषताएं आपके सपनों का घर आपके बजट में! शुभ अवसर पर अपने स्वयं के भवन का शुभारंभ करें! 7249874057 स्वतंत्र 7/120 रोशनी, पानी, सड़क सभी सुविधाएं नियुक्त स्वतंत्र बोरवेल ऋण सुविधा 0पारदर्शी लेनदेन बुकिंगएटीआई","शुभम ट्रेडस & कन्स्ट्रक्शन सेप्रेट बंगलो विकणे आहे कंळबा. वैशिष्टये तुमच्या स्वप्नातील घर तुमच्या बजेटमध्ये! शुभ मुहृर्तावर करा पदार्पण तुमच्या स्वतः च्या वास्तूत! 7249874057 स्वतंत्र ७/१२० लाईट, पाणी, रस्ते सर्व सोयीनियुक्त स्वतंत्र बोरवेल लोनची सोय ०पारदर्शक व्यवहार बुकींगाती"
+"#Awareness Fraud Alert Don't fall for this ladies! The number I got this call from is now coming out of service so no use of posting it. Just beware of this new fraud. !! Fraud Alert!G!! So This Just Happened With Me! I had a return on Amazon. I returned my parcel and right after the return I got an automated call from 'Blue Dart' saying my return is complete. They asked me to collect the refund from their office in Mumbai or press 9 to talk to customner care. I thought its genuine since l had just returned the parcel so I dialed 9. The guy talked very nicely at first and asked my full name. l am in Bangalore and parcel was returned from my hometown. Thankfully I didn't give any address. Then suddenly he said that a parcel has been sent using my aadhar card details to Malaysia and drugs are found in it. So he said I will connect you to the police officer for enquiry and investigation. Thankfully I had read about this fraud and said I am not going to fall for your fraud. So suddenly his tone changed and he abused me left and right with most horrendous abuses and said fraud tere saath nahi toh mere baap ke saath karu kya? l am really shocked, shaken and scared now. Hopefully he won't hack my data. Ireported it to Amazon, they said your data is safe. I think it's coincidence because people have gotten such calls without an Amazon return. Attaching the fraud number I got a call from. Just posting to be aware of such frauds. Take care! Stay Blessed!",spam,"#जागरूकता धोखाधड़ी चेतावनी महिलाओं, इसके झांसे में न आएं! जिस नंबर से मुझे यह कॉल आया वह अब सेवा से बाहर आ रहा है इसलिए इसे पोस्ट करने का कोई फायदा नहीं है। बस इस नए धोखे से सावधान रहें. !! धोखाधड़ी चेतावनी!जी!! तो यह मेरे साथ ही हुआ! मुझे अमेज़ॅन पर रिटर्न मिला था। मैंने अपना पार्सल लौटा दिया और वापसी के तुरंत बाद मुझे 'ब्लू डार्ट' से एक स्वचालित कॉल मिली जिसमें कहा गया कि मेरी वापसी पूरी हो गई है। उन्होंने मुझसे मुंबई में अपने कार्यालय से रिफंड लेने या कस्टमर केयर से बात करने के लिए 9 दबाने को कहा। मैंने सोचा कि यह असली है क्योंकि मैंने अभी-अभी पार्सल लौटाया था इसलिए मैंने 9 डायल किया। उस आदमी ने पहले तो बहुत अच्छी तरह से बात की और मेरा पूरा नाम पूछा। मैं बेंगलुरु में हूं और पार्सल मेरे गृहनगर से लौटा दिया गया था। शुक्र है मैंने कोई पता नहीं बताया. फिर अचानक उसने कहा कि मेरे आधार कार्ड की डिटेल का इस्तेमाल कर मलेशिया में एक पार्सल भेजा गया है और उसमें ड्रग्स मिला है. तो उन्होंने कहा कि मैं तुम्हें पूछताछ और जांच के लिए पुलिस अधिकारी से मिलवाऊंगा. शुक्र है कि मैंने इस धोखाधड़ी के बारे में पढ़ लिया था और कहा कि मैं आपकी धोखाधड़ी में नहीं फंसूंगा। तो अचानक उनका लहजा बदल गया और उन्होंने मुझे दांयी-बांयी सबसे भद्दी-भद्दी गालियां दीं और कहा कि फ्रॉड तेरे साथ नहीं तो मेरे बाप के साथ करु क्या? मैं अब सचमुच हैरान, सहमा हुआ और डरा हुआ हूं। उम्मीद है कि वह मेरा डेटा हैक नहीं करेगा. मैंने इसकी सूचना अमेज़न को दी तो उन्होंने कहा कि आपका डेटा सुरक्षित है। मुझे लगता है कि यह संयोग है क्योंकि लोगों को बिना अमेज़न रिटर्न के ऐसी कॉलें मिली हैं। जिस फ्रॉड नंबर से मुझे कॉल आया था, उसे अटैच कर रहा हूं। बस ऐसी धोखाधड़ी से सावधान रहने के लिए पोस्ट कर रहा हूं। अपना ध्यान रखना! खुश रहो!","# जागरूकता फसवणूक अलर्ट या महिलांना बळी पडू नका! मला ज्या क्रमांकावरून हा कॉल आला होता तो आता सेवाबाह्य होत आहे त्यामुळे तो पोस्ट करून उपयोग नाही. फक्त या नवीन फसवणुकीपासून सावध रहा. !! फसवणूक अलर्ट!जी!! सो धिस जस्ट हॅपन्ड विथ मी! मी Amazon वर परत आले होते. मी माझे पार्सल परत केले आणि परत आल्यानंतर मला 'ब्लू डार्ट' कडून एक स्वयंचलित कॉल आला की माझे परत येणे पूर्ण झाले आहे. त्यांनी मला त्यांच्या मुंबईतील कार्यालयातून परतावा गोळा करण्यास सांगितले किंवा कस्टमर केअरशी बोलण्यासाठी 9 दाबा. मला ते खरे वाटले कारण मी नुकतेच पार्सल परत केले होते म्हणून मी 9 डायल केला. तो माणूस सुरुवातीला खूप छान बोलला आणि माझे पूर्ण नाव विचारले. मी बंगलोरमध्ये आहे आणि पार्सल माझ्या गावी परत आले होते. सुदैवाने मी कोणताही पत्ता दिला नाही. त्यानंतर अचानक तो म्हणाला की, माझ्या आधार कार्डचा तपशील वापरून मलेशियाला एक पार्सल पाठवले आहे आणि त्यात ड्रग्ज सापडले आहेत. त्यामुळे चौकशी आणि तपासासाठी मी तुला पोलीस अधिकाऱ्याशी जोडतो असे तो म्हणाला. कृतज्ञतापूर्वक मी या फसवणुकीबद्दल वाचले होते आणि म्हणालो की मी तुमच्या फसवणुकीला बळी पडणार नाही. त्यामुळे अचानक त्याचा सूर बदलला आणि त्याने मला डावीकडे आणि उजवीकडे अत्यंत भयानक शिव्या दिल्या आणि म्हणाला फसवणूक तेरे साथ नहीं तो मेरे बाप के साथ करू क्या? मला आता खरोखरच धक्का बसला आहे, हादरलो आहे आणि घाबरलो आहे. आशा आहे की तो माझा डेटा हॅक करणार नाही. Amazon ला याची तक्रार केली, त्यांनी तुमचा डेटा सुरक्षित असल्याचे सांगितले. मला वाटते की हा योगायोग आहे कारण लोकांना Amazon रिटर्नशिवाय असे कॉल आले आहेत. फसवणूकीचा क्रमांक जोडताना मला फोन आला. अशा फसवणुकीपासून सावध राहण्यासाठी पोस्ट करत आहे. काळजी घ्या! धन्य राहा!"
+"Please forward it to all friends Information has been given by Hyderabad Police all over India. Please do not drink any cold drink like Maaza, Fanta, 7 Up, Coca Cola, Mountain Deo, Pepsi, etc. for the next few days because one of the company's workers has mixed the contaminated blood of dangerous virus named Ebola in it. This news was told in NDTV channcl yesterday. Please help by forwarding this message as soon as possible. Forward this message to your family. Share this as much as you can o7:12 Thank you.,",spam,"कृपया इसे सभी मित्रों को अग्रेषित करें सूचना पूरे भारत में हैदराबाद पुलिस द्वारा दी गई है। कृपया अगले कुछ दिनों तक कोई भी कोल्ड ड्रिंक जैसे माज़ा, फैंटा, 7 अप, कोका कोला, माउंटेन डियो, पेप्सी आदि न पियें क्योंकि कंपनी के किसी कर्मचारी ने इसमें इबोला नाम के खतरनाक वायरस का दूषित खून मिला दिया है। ये खबर कल एनडीटीवी चैनल में बताई गई. कृपया इस संदेश को यथाशीघ्र अग्रेषित कर सहायता करें। इस संदेश को अपने परिवार तक अग्रेषित करें। इसे जितना हो सके शेयर करें o7:12 धन्यवाद.,","कृपया ते सर्व मित्रांना फॉरवर्ड करा संपूर्ण भारतभर हैदराबाद पोलिसांनी माहिती दिली आहे. कृपया पुढील काही दिवस Maaza, Fanta, 7 Up, Coca Cola, Mountain Deo, Pepsi इत्यादी कोणतेही थंड पेय पिऊ नका कारण कंपनीच्या एका कामगाराने त्यात इबोला नावाच्या धोकादायक विषाणूचे दूषित रक्त मिसळले आहे. काल NDTV चॅनलने ही बातमी दिली. कृपया हा मेसेज लवकरात लवकर फॉरवर्ड करून मदत करा. हा मेसेज तुमच्या कुटुंबाला फॉरवर्ड करा. हे जास्तीत जास्त शेअर करा o7:12 धन्यवाद.,"
+"TATA TECHNOLOGIESD TATA Eligibility criteria Tata Technologies InnoVent is open to all Diploma, B.E., B.Tech. and Dual Degree final year, pre-final year engineering students in India. All one needs is a passion for engineering and innovation",ham,"टाटा टेक्नोलॉजीज टाटा पात्रता मानदंड टाटा टेक्नोलॉजीज इनोवेंट सभी डिप्लोमा, बी.ई., बी.टेक. के लिए खुला है। और भारत में दोहरी डिग्री अंतिम वर्ष, प्री-फाइनल वर्ष के इंजीनियरिंग छात्र। हर किसी को इंजीनियरिंग और इनोवेशन के प्रति जुनून की जरूरत होती है","TATA TECHNOLOGIESD TATA पात्रता निकष Tata Technologies InnoVent सर्व डिप्लोमा, B.E., B.Tech साठी खुला आहे. आणि दुहेरी पदवी अंतिम वर्ष, भारतातील प्री-फायनल इयर इंजिनिअरिंगचे विद्यार्थी. अभियांत्रिकी आणि नवनिर्मितीची आवड असणे आवश्यक आहे"
+Program Branch SY SY SY SY SY SY |AIML |AIML |AIML |AIML |AIML |AIML PRN |2122000656 2122000712 |2122000746 |2122000767 |2223000735 |2223000832 Name Vaishnavi Rajesh Mane Shewale Jeevan Arvind |Yugandhar Ashok Patil Viraj Pradip Patil Mohad faijan javedkhan pathan |Om Tejas Shah,ham,कार्यक्रम शाखा SY SY SY SY SY SY |AIML |AIML |AIML |AIML |AIML |AIML PRN |2122000656 2122000712 |2122000746 |2122000767 |2223000735 |2223000832 नाम वैष्णवी राजेश माने शेवाले जीवन अरविंद |युगांधर अशोक पाटिल विराज प्रद आईपी पाटिल मोहद फैजान जावेदखान पठान |ओम तेजस शाह,कार्यक्रम शाखा SY SY SY SY SY SY |AIML |AIML |AIML |AIML |AIML |AIML PRN |2122000656 2122000712 |2122000746 |2122000767 |2223000735 |2223000735 |2223000735 |2223000735 |2223000735 | |युगंधर अशोक पाटील विराज प्रदिप पाटील मोहड फैजान जावेदखान पठाण |ओम तेजस शाह
+"4 DAY'S STUDENT WORKSHOP ARDUBOTICS: INTELLIGENT ROBOTS 6TH & 7TH SEPTEMBER 2023 - CSE 8TH & 9TH SEPTEMBER 2023 - CSE KOLHAPUR INSTITUTE OF TECHNOLOGYS COLLEGE OF ENGINEERING CAUTONOMOUS), KOLHAPUR INNOVIANS TECHNOLOGIES (ISO 9001:2015 CERTIFIED) TECHNEX 23 The annual techno-management festival of Organized by Indian Institute of Technology (Banaras Hindu University) Varanasi Department of CSE (Artificial Intelligence & Machine Learning) & Department of CSE(Data Science) In collaboration with Innoviance Technologies, IIT Varanasi, Technix'23, IIT Varanasi 7 57 7 7 ABOUT THE WORKSHOP ArduBotics is workshop on intelligent Autonomous, microcontroller based with multiple sensor robot. These robots can work without human intervention based on AI logic. This workshop is dedicated to clear the basic multidisciplinary concepts of electronics, electricals & AI. In this workshop student will make their Self Brain Robot which will do various activities like: . Line Follower Robot • Obstacle Avoider Robot . Edge Avoider Robot (For Competition) . Voice Controlled Robot using Bluetooth • Designing Own Android App using MIT App Inventor Gesture Control Robot using Android App Duration: The duration of this workshop will be two consecutive days, with eight hour session each day in a total of sixteen hours properly divided into theory and hands on sessions. Eligibility: There are no prerequisites. Anyone interested, can join this workshop. Certification Policy: . Certificate of Merit for participants. all the workshop At the end of this workshop, a small competition will be organized among the participating students and winners will be awarded with a 'Certificate of Excellence' . Certificate of Coordination for the coordinators of the campus workshops. Mode of Conduction: Offline Fees: Rs.800/- per participant G Pay accepted here Innovians Technologies +91 92509 04129 9250904129@okbizaxis Paytr LP amazon BHIM UP Moble",ham,"4 दिवसीय छात्र कार्यशाला आर्दुबोटिक्स: इंटेलिजेंट रोबोट 6 और 7 सितंबर 2023 - सीएसई 8 और 9 सितंबर 2023 - सीएसई कोल्हापुर इंस्टीट्यूट ऑफ टेक्नोलॉजीज कॉलेज ऑफ इंजीनियरिंग कैटोनोमस), कोल्हापुर इनोवियंस टेक्नोलॉजीज (आईएसओ 9001) :2015 प्रमाणित) टेक्नेक्स 23 वार्षिक तकनीकी-प्रबंधन उत्सव भारतीय प्रौद्योगिकी संस्थान (बनारस हिंदू विश्वविद्यालय) वाराणसी सीएसई (आर्टिफिशियल इंटेलिजेंस एंड मशीन लर्निंग) विभाग और सीएसई (डेटा साइंस) विभाग द्वारा इनोवियंस टेक्नोलॉजीज, आईआईटी वाराणसी, टेक्निक्स'23, आईआईटी वाराणसी के सहयोग से आयोजित 7 57 7 7 वर्कशॉप के बारे में ArduBotics मल्टीपल सेंसर रोबोट पर आधारित इंटेलिजेंट ऑटोनॉमस, माइक्रोकंट्रोलर पर वर्कशॉप है। ये रोबोट एआई लॉजिक के आधार पर मानवीय हस्तक्षेप के बिना काम कर सकते हैं। यह कार्यशाला इलेक्ट्रॉनिक्स, इलेक्ट्रिकल्स और एआई की बुनियादी बहु-विषयक अवधारणाओं को स्पष्ट करने के लिए समर्पित है। इस कार्यशाला में छात्र अपना सेल्फ ब्रेन रोबोट बनाएंगे जो विभिन्न गतिविधियां करेगा जैसे:। लाइन फॉलोअर रोबोट • बाधा टालने वाला रोबोट। एज अवॉइडर रोबोट (प्रतियोगिता के लिए)। ब्लूटूथ का उपयोग करके आवाज नियंत्रित रोबोट • एमआईटी ऐप का उपयोग करके खुद का एंड्रॉइड ऐप डिजाइन करना एंड्रॉइड ऐप का उपयोग करके आविष्कारक जेस्चर कंट्रोल रोबोट अवधि: इस कार्यशाला की अवधि लगातार दो दिन होगी, जिसमें प्रत्येक दिन आठ घंटे का सत्र होगा, जिसमें कुल सोलह घंटे सिद्धांत और सिद्धांत में विभाजित होंगे। व्यावहारिक सत्र. पात्रता: कोई शर्त नहीं है. कोई भी इच्छुक व्यक्ति इस कार्यशाला में शामिल हो सकता है। प्रमाणीकरण नीति: . प्रतिभागियों के लिए योग्यता प्रमाण पत्र. सभी कार्यशाला इस कार्यशाला के अंत में भाग लेने वाले छात्रों के बीच एक छोटी प्रतियोगिता आयोजित की जाएगी और विजेताओं को 'उत्कृष्टता प्रमाणपत्र' से सम्मानित किया जाएगा। परिसर कार्यशालाओं के समन्वयकों के लिए समन्वय प्रमाणपत्र। संचालन का तरीका: ऑफ़लाइन शुल्क: रु.800/- प्रति प्रतिभागी जी वेतन यहां स्वीकार किया जाता है इनोवियंस टेक्नोलॉजीज +91 92509 04129 9250904129@okbizaxis Paytr एलपी अमेज़ॅन भीम यूपी मोबल","4 दिवसीय विद्यार्थी कार्यशाळा अर्ड्युबॉटिक्स: बुद्धिमान रोबोट्स 6 आणि 7 सप्टेंबर 2023 - CSE 8 आणि 9 सप्टेंबर 2023 - CSE कोल्हापूर इन्स्टिट्यूट ऑफ टेक्नॉलॉजीज कॉलेज कॉलेज कॉलेज, कॉलेज कॉलेज, टेक्नोलॉजीज (ISO 9001:2015 प्रमाणित) TECHNEX 23 वार्षिक टेक्नो-व्यवस्थापन महोत्सव इंडियन इन्स्टिट्यूट ऑफ टेक्नॉलॉजी (बनारस हिंदू युनिव्हर्सिटी) CSE विभाग (कृत्रिम बुद्धिमत्ता आणि मशीन लर्निंग) आणि CSE (डेटा सायन्स) विभाग, IIT वाराणसी, Technix'23, IIT वाराणसी 7 57 7 7 च्या सहकार्याने आयोजित वर्कशॉप बद्दल ArduBotics ही बुद्धिमान ऑटोनॉमस, मायक्रोकंट्रोलरवर आधारित कार्यशाळा आहे ज्यामध्ये एकाधिक सेन्सर रोबोट आहे. हे रोबोट एआय लॉजिकवर आधारित मानवी हस्तक्षेपाशिवाय काम करू शकतात. ही कार्यशाळा इलेक्ट्रॉनिक्स, इलेक्ट्रिकल्स आणि एआयच्या मूलभूत बहुविद्याशाखीय संकल्पना स्पष्ट करण्यासाठी समर्पित आहे. या कार्यशाळेत विद्यार्थी त्यांचा सेल्फ ब्रेन रोबोट बनवतील जे विविध क्रियाकलाप करतील जसे: लाइन फॉलोअर रोबोट • अडथळे टाळणारा रोबोट. एज अव्हायडर रोबोट (स्पर्धेसाठी). ब्लूटूथ वापरून व्हॉइस कंट्रोल्ड रोबोट • एमआयटी अॅप इन्व्हेंटर जेश्चर कंट्रोल रोबोट वापरून स्वतःचे अँड्रॉइड अॅप डिझाइन करणे अँड्रॉइड अॅप वापरून कालावधी: या कार्यशाळेचा कालावधी सलग दोन दिवस असेल, प्रत्येक दिवशी आठ तासांचे सत्र एकूण सोळा तासांमध्ये योग्यरित्या सिद्धांत आणि सत्रांवर हात. पात्रता: कोणतीही पूर्वस्थिती नाही. इच्छुक कोणीही या कार्यशाळेत सहभागी होऊ शकतात. प्रमाणन धोरण: . सहभागींसाठी गुणवत्तेचे प्रमाणपत्र. सर्व कार्यशाळा या कार्यशाळेच्या शेवटी, सहभागी विद्यार्थ्यांमध्ये एक छोटीशी स्पर्धा आयोजित केली जाईल आणि विजेत्यांना 'उत्कृष्टतेचे प्रमाणपत्र' देऊन सन्मानित केले जाईल. कॅम्पस कार्यशाळेच्या समन्वयकांसाठी समन्वय प्रमाणपत्र. आचरणाची पद्धत: ऑफलाइन शुल्क: रु.800/- प्रति सहभागी G पे येथे स्वीकारले आहे Innovians Technologies +91 92509 04129 9250904129@okbizaxis Paytr LP amazon BHIM UP Moble"
+"Paytm Money Sent Successfully 1,000 Rupees One Thousand Only To: Master OM ULHAS NAGVEKAR UPI ID: Bank of Maharashtra From: Sanjali Nagvekar IDBI Bank UPI Ref No: 10:22 PM, 30 Jun 2023 POWERED BY UFI> NFIED FAYMENTS INTERACE MN",ham,"पेटीएम मनी सफलतापूर्वक 1,000 रुपये केवल एक हजार भेज दी गई: मास्टर ओम उल्हास नागवेकर यूपीआई आईडी: बैंक ऑफ महाराष्ट्र प्रेषक: संजलि नागवेकर आईडीबीआई बैंक यूपीआई संदर्भ संख्या: 10:22 अपराह्न, 30 जून 2023 यूएफआई द्वारा संचालित> एनएफआईईडी फ़ेमेंट्स इंटरफ़ेस एमएन","Paytm मनी 1,000 रुपये एक हजार यशस्वीरित्या पाठवले: मास्टर ओम उल्हास नागवेकर UPI आयडी: बँक ऑफ महाराष्ट्र प्रेषक: संजली नागवेकर IDBI बँक UPI संदर्भ क्रमांक: 10:22 PM, 30 जून 2023 UFI> NFIED FAYSINMENT द्वारे समर्थित"
+"Semiconductor agreement will be a game changer India-made semiconductor chip coming in December 2024 No one can stop India's leap Sanjay Sharma Lokmat News Network New Delhi: India will export all electronic goods from mobile phones, televisions, computer hardware, laptops, automobiles in five years. The game changer position will come from India's strategic scale manufacturing of semiconductors. No one in the world was ready to give India the technology of Semi Conductor till now. Some European countries introduced technology to India",spam,"सेमीकंडक्टर समझौता गेम चेंजर होगा दिसंबर 2024 में आ रही है भारत निर्मित सेमीकंडक्टर चिप भारत की छलांग को कोई नहीं रोक सकता संजय शर्मा लोकमत न्यूज नेटवर्क नई दिल्ली: भारत पांच में मोबाइल फोन, टेलीविजन, कंप्यूटर हार्डवेयर, लैपटॉप, ऑटोमोबाइल से लेकर सभी इलेक्ट्रॉनिक सामान निर्यात करेगा साल। गेम चेंजर की स्थिति भारत के अर्धचालकों के रणनीतिक पैमाने के निर्माण से आएगी। भारत को सेमी कंडक्टर की तकनीक अब तक दुनिया में कोई भी देने को तैयार नहीं था। कुछ यूरोपीय","सेमी कंडक्टर करार गेम चेंजर ठरणार २०२४ डिसेंबरमध्ये येणार भारतनिर्मित सेमी कंडक्टर चिप भारताची झेप कोणीही रोखु शकणार नाही संजय शर्मा लोकमत न्यूज़ नेटवर्क नवी दिल्ली : मोबाइल फोन, टेलिव्हिजन, संगणक हाडवेअर, लॅपरटॉप, आँटोमोबाइलपासून सर्व इलेक्ट्रॉनिक वस्तंची भारत पूर्ढील पाच वर्षानी निर्याति करणार आहे, ही गेम चेंजर स्थिती सेमी कंडक्टरच्या भारतातील मोक्या प्रमाणावरील उत्पादनामुळे येणार आहे. सेमी कंडक्टरचे तंत्रज्ञान भारताला आजवर जगातील कोणीही देण्यास तयार नव्हते. काही युरोपियन दैशांनी भारताला तंत्रज्ञान देण्याच्या बदल्यात नाटोमध्ये सहभागी होण्यासाठी दबाव पंतप्रधान नरेंद्र मोदी यांच्या सध्याच्या अमेरिकेच्या दौर्यानंतर आता भारतासाठी गेम चेंजर स्थिती निर्माण होणार आहे. सैमी कंडकटर चिपच्या कमतरतेमुळे भारत इलेक्ॉनिक उपकरणे, संगणक सॉफ्टवेअर, लॅपटॉप, मोबाडल फोन, टेलिव्हिजिन, ऑटोमोबाडलसाठी बाहेरीत देशांवर अवलंबून होता. समा कड़क्टर चिपर्च उत्यादन भारतातच झाल्यास आता भारताची या क्षेत्रातील मोठी झ्रेप कोणीही रोखू शकत नाही. अमेरिकेबरोबर पतप्रधान नरेंद मोदी यांनी टेक्नॉलॉज़ी ट्रान्स्फरचा करार करन मोत विज्रय प्राप्त केला आहे. त्याचा परिणाम पुढील दोन-तीन वर्षात दिसणार आहे. । त्यामुळे भारतातच जगातील मोक्या कंपन्यांचे टीव्ही, संगणक, लॅपटॉप, मोबाडल फोन, ऑटोमोबाइल डंडस्ट्रीच्या कार, दुचाकी पूर्णपणे स्वदेशी निर्मित होणार आहेत. विशेष म्हणजे या सर्व इलेक्ट्ॉनिक उपकरणांमध्धे सेमी कंड़क्टरचा वापर होतो. भारताज़वळ हे तंत्रज्ञान नव्हते. अमेरिकेचे राष्ट्राध्यक्ष जो बायडेन यांच्याबरोबर झालेल्या करारानंतर अमेरिका सेमी कंडक्टरचे तंत्रज्ञान देण्यास तयार झाली आहे. अमेरिकी कंपनी मायक्रॉनचा अहमदाबादेतील सेमी कंडक्टरचा प्रकल्प लवकरचसुरू पंतप्रधान नरेंद्र मोदी यांच्या होणार आहे. कंपनी येथे २.७५ अब्ज अमेरिकी डॉलरची गुंतवणूक करणा आहे. सेमी कंडक्टर क्षेत्रात भारत पूुढी पाच वर्षांत जगातील सर्वात मोठा ह बनणार आहे. भारताची पहिली स्वदेश सेमी कंडक्टर चिपडिसेंबर "
+"a Search Posts #FakeNews 20hO Ministry of Health and Family Welfare, Government of India > This message is circulating in some Whatsapp groups regarding XBB variant of #0COVID19. The message is #FAKE and #MISLEADING. Let's pay attention to the following information: PMO India Mansukh Mandaviya Dr.Bharati Pravin Pawar si. HTRGt yUT yaR Press Information Bureau PIB, Government of India Ministry of Information & Broadcasting, Government of India DDNewsLive Amrit Mahotsav All India Radio News AlIMS, Delhi MyGovindia 1. There is no cough. About Photos The symptoms of the new virus CoVID-Omicron XBB are the following: 2. There is no fever. Everyone is advised to wear a mask because the new varlant of the COVID-Omicron XBB coronavirus is different, deadly and not easy to detect correctly. 3. Joint pain There will only be a limited number of these others: 4. Headache. 5. Pain in the neck. 6. Upper back pain. 7. Pneumonia. XBB variant 8. There is usually no appetite. 4G l 96% Mentions AKE FAKE cOVID-Omicron XBB is 5 times more virulent than the Delta variant and has a higher mortality rate than it It takes less time for the condition to reach extreme severity and sometimes there are no obvious symptoms. Let's be more carefull This strain af the virus is not found in the nasopharyngeal region and directly atfects the lungs for a relatively short period of time. 3.6K AKS Several patients diagnosed with Covid-Omicron XBB were classified as afebrile and pain free, but x-rays showed mild chest pneumonia. Nasal swab tests are often negative for Covid-Omicron XBB, and cases of false negative nasopharyngeal tests are increasing. This means that the virus can sproad in the community and directly infect the lungs, causing viral pneumonia, which in turm causes acute respiratory distress. Maintain vigilant communication with your friends and family. Like This explains why the Covid-Omicron XBB has become something very contagious, highly vinulent and lethal. Caution, avoid crowded places, keep a distance of 1.5 m even in open spaces, wear a double-layer mask, wear a suitable mask, wash hands frequently, even if everyone is asymptomatic (no coughing or sneezing) This wave of Covid-Omicron XBB is deadlier than the first wave of Covid-19, So we have to be very careful and take several reinforced precautions against the coronavírus. Do not keep this information to yourself, share it with other family members and friends. Comment 133 comments 1.8K shares Shareहे",spam,"एक खोज पोस्ट #FakeNews 20hO स्वास्थ्य और परिवार कल्याण मंत्रालय, भारत सरकार > यह संदेश #0कोविड19 के XBB संस्करण के संबंध में कुछ व्हाट्सएप समूहों में प्रसारित हो रहा है। यह संदेश #नकली और #भ्रामक है। आइए निम्नलिखित जानकारी पर ध्यान दें: पीएमओ इंडिया मनसुख मंडाविया डॉ.भारती प्रवीण पवार सी. HTRGt yUT yaR प्रेस सूचना ब्यूरो पीआईबी, भारत सरकार सूचना एवं प्रसारण मंत्रालय, भारत सरकार DDNewsLive अमृत महोत्सव आकाशवाणी समाचार AlIMS, दिल्ली MyGovindia 1. कोई खांसी नहीं है। फ़ोटो के बारे में नए वायरस CoVID-Omicron XBB के लक्षण निम्नलिखित हैं: 2. कोई बुखार नहीं है। सभी को मास्क पहनने की सलाह दी जाती है क्योंकि COVID-Omicron XBB कोरोना वायरस का नया संस्करण अलग, घातक है और इसका सही ढंग से पता लगाना आसान नहीं है। 3. जोड़ों का दर्द इनमें से अन्य की संख्या सीमित होगी: 4. सिरदर्द। 5. गर्दन में दर्द. 6. ऊपरी पीठ में दर्द. 7. निमोनिया. XBB वैरिएंट 8. आमतौर पर कोई भूख नहीं होती है। 4जी एल 96% में एके नकली कोविड-ओमाइक्रोन एक्सबीबी का उल्लेख है, जो डेल्टा वेरिएंट से 5 गुना अधिक खतरनाक है और इसकी मृत्यु दर इसकी तुलना में अधिक है। स्थिति को चरम गंभीरता तक पहुंचने में कम समय लगता है और कभी-कभी कोई स्पष्ट लक्षण नहीं होते हैं। आइए अधिक सावधान रहें। यह वायरस नासॉफिरिन्जियल क्षेत्र में नहीं पाया जाता है और अपेक्षाकृत कम समय के लिए सीधे फेफड़ों को प्रभावित करता है। 3.6के एकेएस कोविड-ओमाइक्रोन एक्सबीबी से पीड़ित कई रोगियों को बुखार और दर्द से मुक्त के रूप में वर्गीकृत किया गया था, लेकिन एक्स-रे में हल्के सीने में निमोनिया दिखाई दिया। नाक स्वाब परीक्षण अक्सर कोविड-ओमाइक्रोन एक्सबीबी के लिए नकारात्मक होते हैं, और गलत नकारात्मक नासॉफिरिन्जियल परीक्षणों के मामले बढ़ रहे हैं। इसका मतलब यह है कि वायरस समुदाय में फैल सकता है और सीधे फेफड़ों को संक्रमित कर सकता है, जिससे वायरल निमोनिया हो सकता है, जो आगे चलकर तीव्र श्वसन संकट का कारण बनता है। अपने मित्रों और परिवार के साथ सतर्क संचार बनाए रखें। जैसे यह बताता है कि क्यों कोविड-ओमाइक्रोन एक्सबीबी बहुत संक्रामक, अत्यधिक विषैला और घातक बन गया है। सावधानी, भीड़-भाड़ वाली जगहों से बचें, खुले स्थानों में भी 1.5 मीटर की दूरी रखें, डबल-लेयर मास्क पहनें, उपयुक्त मास्क पहनें, बार-बार हाथ धोएं, भले ही हर कोई स्पर्शोन्मुख हो (खांसी या छींक न आए) कोविड-ओमाइक्रोन की यह लहर एक्सबीबी कोविड-19 की पहली लहर से भी अधिक घातक है, इसलिए हमें बहुत सावधान रहना होगा और कोरोना वायरस के खिलाफ कई सावधानियां बरतनी होंगी। यह जानकारी अपने तक ही सीमित न रखें, इसे परिवार के अन्य सदस्यों और दोस्तों के साथ साझा करें। टिप्पणी 133 टिप्पणियाँ 1.8 हजार शेयर शेयरहे","शोध पोस्ट #FakeNews 20hO आरोग्य आणि कुटुंब कल्याण मंत्रालय, भारत सरकार > हा संदेश #0COVID19 च्या XBB प्रकारासंबंधी काही Whatsapp गटांमध्ये फिरत आहे. संदेश #FKE आणि #MISLEADING आहे. चला खालील माहितीकडे लक्ष देऊया: पीएमओ इंडिया मनसुख मांडविया डॉ.भारती प्रवीण पवार si. HTRGt yUT yaR प्रेस इन्फॉर्मेशन ब्युरो PIB, भारत सरकारचे माहिती आणि प्रसारण मंत्रालय, भारत सरकार DDNewsLive अमृत महोत्सव ऑल इंडिया रेडिओ न्यूज अलीम्स, दिल्ली मायगोविंदिया 1. खोकला नाही. फोटोंबद्दल CoVID-Omicron XBB या नवीन विषाणूची लक्षणे खालीलप्रमाणे आहेत: 2. ताप नाही. प्रत्येकाला मास्क घालण्याचा सल्ला देण्यात आला आहे कारण COVID-Omicron XBB कोरोनाव्हायरसचे नवीन वारंट वेगळे, प्राणघातक आणि योग्यरित्या शोधणे सोपे नाही. 3. सांधेदुखी या इतरांची मर्यादित संख्या असेल: 4. डोकेदुखी. 5. मानेत वेदना. 6. वरच्या पाठदुखी. 7. न्यूमोनिया. XBB प्रकार 8. सहसा भूक नसते. 4G l 96% उल्लेख करतात AKE FAKE coVID-Omicron XBB डेल्टा प्रकारापेक्षा 5 पट अधिक विषाणूजन्य आहे आणि त्यापेक्षा जास्त मृत्यू दर आहे स्थिती अत्यंत तीव्रतेपर्यंत पोहोचण्यास कमी वेळ लागतो आणि काहीवेळा कोणतीही स्पष्ट लक्षणे दिसत नाहीत. चला अधिक सावधगिरी बाळगूया हा विषाणू नासोफरीन्जियल प्रदेशात आढळत नाही आणि तुलनेने कमी कालावधीसाठी थेट फुफ्फुसांवर परिणाम करतो. 3.6K AKS Covid-Omicron XBB चे निदान झालेल्या अनेक रूग्णांना अ‍ॅफेब्रिल आणि वेदनारहित म्हणून वर्गीकृत करण्यात आले होते, परंतु क्ष-किरणांमध्ये छातीचा सौम्य न्यूमोनिया दिसून आला. Covid-Omicron XBB साठी अनुनासिक स्वॅब चाचण्या अनेकदा नकारात्मक असतात आणि खोट्या निगेटिव्ह नासोफरींजियल चाचण्यांची प्रकरणे वाढत आहेत. याचा अर्थ हा विषाणू समुदायात पसरू शकतो आणि फुफ्फुसांना थेट संक्रमित करू शकतो, ज्यामुळे व्हायरल न्यूमोनिया होतो, ज्यामुळे तीव्र श्वसनाचा त्रास होतो. तुमचे मित्र आणि कुटुंबियांशी सतर्क संवाद ठेवा. याप्रमाणे हे स्पष्ट करते की कोविड-ओमिक्रॉन XBB काहीतरी खूप संसर्गजन्य, अत्यंत विषारी आणि प्राणघातक का बनले आहे. सावधगिरी बाळगा, गर्दीची ठिकाणे टाळा, मोकळ्या जागेतही 1.5 मीटर अंतर ठेवा, डबल-लेयर मास्क घाला, योग्य मास्क घाला, प्रत्येकाला लक्षणे नसली तरीही (खोकला किंवा शिंका येत नाही) कोविड-ओमिक्रॉनची ही लाट असली तरीही वारंवार हात धुवा. XBB कोविड-19 च्या पहिल्या लाटेपेक्षा प्राणघातक आहे, म्हणून आपण खूप सावधगिरी बाळगली पाहिजे आणि कोरोनाव्हायरस विरूद्ध अनेक प्रबलित सावधगिरी बाळगली पाहिजे. ही माहिती स्वत:कडे ठेवू नका, ती इतर कुटुंबातील सदस्य आणि मित्रांसह सामायिक करा. टिप्पणी 133 टिप्पण्या 1.8K शेअर शेअरहे"
+"Scorpion Bite Treatment Grind the scent of five-seven matchsticks in water and apply on the scorpion sting. Once applied, the scorpion venom dissipates in just 2 minutes. Please share because sharing doesn't cost money. Let this important information be useful to the poor so that his life can be saved.",spam,बिच्छू काटने का इलाज माचिस की पांच-सात तीलियों को पानी में पीसकर बिच्छू के डंक वाली जगह पर लगाएं। एक बार लगाने पर बिच्छू का जहर सिर्फ 2 मिनट में उतर जाता है। कृपया शेयर करें क्योंकि शेयर करने के पैसे नहीं लगते। यह महत्वपूर्ण जानकारी किसी गरीब के काम आये ताकि उसका जीवन बचाया जा सके।,विंचू चावणे उपचार पाच-सात माचिसच्या काड्यांचा सुर्गंध पाण्यात बारीक करून विंचवाच्या डंकावर लावा. ते लावल्याबरोबर विंचवाचे विष फक्त 2 मिनिटात नाहीसे होते. कृपया शेअर करा कारण शेअर करायला पैसे लागत नाहीत. ही महत्वाची माहिती गरिबांना उपयोगी पडू दे जेणेकरून त्याचा जीव वाचू शकेल.
+" Paper_Showing_Schedule_100122 R.S. No. 199B/1-3, Gokul Shirgaon, Kolhapur-416 234. una0ts00 9168781199 Fax +91 231 263 8881 Email 2 infogkitooekin Web www.kitcoek.in Link for MSE Exam is as followS: [ONLY DSY AND ADDITIONALLY PROMOTED 49 STUDENTS DUE TO CHANGE OF ELIGIBLITYI Login details : Note: NOTICE for S.Y.B.Tech. Students (ODD Semester) - A.Y.2022-23 All S.Y.B.Tech. students can now avail the paper seeing facility for the MSE Examination (Odd Sem) of A.Y. 2022-23. The paper seeing facility will be available only during the period - 10h January 2023 to 11"" January 2023. The link for DSY Students relevant web portal is - 210.212.172.178:8080/mseexamdiploma The link for Regular Students relevant web portal is - 210.212.172.178:8080/mseexam Rename User Name : paperseeing VaLTE 47% KOLHURhSTTUTE COLLEGE OF ENGINEERING KOLHAPUR An Autonomous Institute Accredited 'A' Grade by NAAC With CGPA 3.12 Mr. S.G.Dige Date : January 10, 2023 • Any grievances regarding un-assessed questions are to be reported to Departmental Examination Coordinator  in your Department on or before 12h January 2023. No grievances related to assessed questions will be entertained. Dy. Registrar Post Examination Edit Dept Exam Coordinators should collect and submit the Grievances before 12"" January 2023 to exam cell. Grievances will not accepted after due date. No applications for any reasons will be accepted from any students after the stipulated time. Exam. Cel Password: contineo Bookmark Dr. Y.M, Patil Dean Examinations & Evaluation ejdspl2022-23\mse-dsy btech-2022-23\paper showing sche dule_mse-odd-22-23_1o Share More",ham,"पेपर_दिखाने_का_शेड्यूल_100122 आर.एस. नंबर 199बी/1-3, गोकुल शिरगांव, कोल्हापुर-416 234. Una0ts00 9168781199 फैक्स +91 231 263 8881 ईमेल 2 infogkitooekin वेब www.kitcoek.in एमएसई परीक्षा के लिए लिंक इस प्रकार है: [केवल डीएसवाई और इसके अतिरिक्त 49 छात्रों को प्रोन्नत किया जाना है पात्रता में परिवर्तन के लिए लॉगिन विवरण: नोट: एस.वाई.बी.टेक. के लिए सूचना। छात्र (ODD सेमेस्टर) - A.Y.2022-23 सभी S.Y.B.Tech। छात्र अब ए.वाई. की एमएसई परीक्षा (विषम सेमेस्टर) के लिए पेपर देखने की सुविधा का लाभ उठा सकते हैं। 2022-23. पेपर देखने की सुविधा केवल 10 जनवरी 2023 से 11 जनवरी 2023 की अवधि के दौरान उपलब्ध होगी। DSY छात्रों के लिए प्रासंगिक वेब पोर्टल का लिंक है - 210.212.172.178:8080/mseexamdiploma नियमित छात्रों के लिए प्रासंगिक वेब पोर्टल का लिंक है - 210.212। 172.178:8080/mseexam उपयोगकर्ता का नाम बदलें: पेपरसीइंग Valte 47% KOLHURHSTTUTE कॉलेज ऑफ इंजीनियरिंग कोल्हापुर एक स्वायत्त संस्थान है जो CGPA 3.12 के साथ NAAC द्वारा 'ए' ग्रेड से मान्यता प्राप्त है। श्री एस.जी.डिगे दिनांक: 10 जनवरी, 2023 • बिना मूल्यांकन वाले प्रश्नों के संबंध में कोई भी शिकायत। आपके विभाग में विभागीय परीक्षा समन्वयक को 12 जनवरी 2023 को या उससे पहले सूचित किया जाना चाहिए। मूल्यांकन किए गए प्रश्नों से संबंधित किसी भी शिकायत पर विचार नहीं किया जाएगा। उप रजिस्ट्रार पोस्ट परीक्षा संपादन विभाग परीक्षा समन्वयकों को 12 जनवरी 2023 से पहले शिकायतों को एकत्र करना और परीक्षा कक्ष में जमा करना होगा। . नियत तिथि के बाद शिकायतें स्वीकार नहीं की जाएंगी। निर्धारित समय के बाद किसी भी छात्र से किसी भी कारणवश आवेदन स्वीकार नहीं किये जायेंगे। परीक्षा। सेल पासवर्ड: कॉन्टिनियो बुकमार्क डॉ. वाई.एम., पाटिल डीन परीक्षा एवं मूल्यांकन ejdspl2022-23\mse-dsy btech-2022-23\पेपर शोइंग शेड्यूल dule_mse-odd-22-23_1o अधिक साझा करें","पेपर_शोइंग_शेड्यूल_100122 R.S. नं. 199B/1-3, गोकुळ शिरगाव, कोल्हापूर-416 234. una0ts00 9168781199 फॅक्स +91 231 263 8881 ईमेल 2 infogkitooekin वेब www.kitcoek.in MSE परीक्षेसाठी लिंक [SLYDON PRODYSALD प्रमाणे आहे. डेंट्स देय पात्रता बदलण्यासाठी लॉगिन तपशील : टीप: S.Y.B.Tech साठी सूचना. विद्यार्थी (ODD सेमिस्टर) - A.Y.2022-23 सर्व S.Y.B.Tech. विद्यार्थी आता A.Y च्या MSE परीक्षेसाठी (Odd Sem) पेपर पाहण्याच्या सुविधेचा लाभ घेऊ शकतात. 2022-23. पेपर पाहण्याची सुविधा फक्त या कालावधीत उपलब्ध असेल - 10h जानेवारी 2023 ते 11"" जानेवारी 2023. DSY विद्यार्थ्यांसाठी संबंधित वेब पोर्टलची लिंक आहे - 210.212.172.178:8080/mseexamdiploma नियमित विद्यार्थ्यांसाठी लिंक आहे. 172.178:8080/mseexam वापरकर्ता नाव पुनर्नामित करा: पेपरसीइंग VaLTE 47% KOLHURHSTTUTE कॉलेज ऑफ इंजिनियरिंग कोल्हापूर एक स्वायत्त संस्था NAAC द्वारे CGPA 3.12 सह 'A' श्रेणी मान्यताप्राप्त श्री. S.G.Dige 20 जानेवारी 2012-20 बाबत श्री. मूल्यांकन केलेले प्रश्न आहेत तुमच्या विभागातील विभागीय परीक्षा समन्वयकाला 12 जानेवारी 2023 रोजी किंवा त्यापूर्वी कळवावे. मूल्यांकन केलेल्या प्रश्नांशी संबंधित कोणत्याही तक्रारीची दखल घेतली जाणार नाही. उप कुलसचिव पोस्ट परीक्षा संपादन विभाग परीक्षा समन्वयकांनी 12 जानेवारी 2023 पूर्वी तक्रारी गोळा करून परीक्षा कक्षाकडे सबमिट कराव्यात. . देय तारखेनंतर तक्रारी स्वीकारल्या जाणार नाहीत. विहित वेळेनंतर कोणत्याही विद्यार्थ्यांकडून कोणत्याही कारणास्तव कोणतेही अर्ज स्वीकारले जाणार नाहीत. परीक्षा. सेल पासवर्ड: contineo बुकमार्क डॉ. Y.M, पाटील डीन परीक्षा आणि मूल्यमापन ejdspl2022-23\mse-dsy btech-2022-23\पेपर sche dule_mse-odd-22-23_1o दर्शवित आहे अधिक शेअर करा"
